@@ -25,6 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adegboyega-ace&show_icons=true&locale=en" alt="adegboyega-ace" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adegboyega-ace&show_icons=true&locale=en&layout=compact" alt="adegboyega-ace" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adegboyega-ace&show_icons=true&locale=en" alt="adegboyega-ace" /></p>
